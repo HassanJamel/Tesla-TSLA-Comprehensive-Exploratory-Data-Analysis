@@ -9,21 +9,6 @@
 
 ---
 
-## Table of Contents
-
-1. [Project Name & SEO Description](#1-seo-optimized-project-name--description)
-2. [Kaggle Tags](#2-kaggle-tags)
-3. [Dataset Overview](#3-dataset-overview)
-4. [Column Details](#4-column-details--data-dictionary)
-5. [Dataset Coverage](#5-dataset-coverage)
-6. [Temporal & Geospatial Scope](#6-temporal--geospatial-scope)
-7. [Provenance](#7-provenance)
-8. [Collection Methodology](#8-collection-methodology)
-9. [Data Source](#9-data-source)
-10. [Problems & Challenges](#10-problems--challenges)
-11. [Problem Development — Step by Step](#11-how-the-problem-developed-step-by-step)
-
----
 
 ## 1. SEO-Optimized Project Name & Description
 
