@@ -1,3 +1,10 @@
+<p align="center">
+  <a href="https://www.kaggle.com/code/hassanjameelahmed/tesla-stock-market-analysis-2015-2025/edit/run/298848903" target="_blank">
+    <img src="TSLA_Stock.png" alt="TSLA Stock" width="500">
+  </a>
+</p>
+
+
 # Tesla (TSLA) Stock Market Dataset — Complete Historical Data (2015–2025)
 
 ---
